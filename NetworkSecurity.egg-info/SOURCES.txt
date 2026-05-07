@@ -6,7 +6,9 @@ NETWORK_SEQUIRITY/components/__init__.py
 NETWORK_SEQUIRITY/constant/__init__.py
 NETWORK_SEQUIRITY/entity/__init__.py
 NETWORK_SEQUIRITY/exception/__init__.py
+NETWORK_SEQUIRITY/exception/exception.py
 NETWORK_SEQUIRITY/logging/__init__.py
+NETWORK_SEQUIRITY/logging/logger.py
 NETWORK_SEQUIRITY/pipelines/__init__.py
 NETWORK_SEQUIRITY/utils/__init__.py
 NetworkSecurity.egg-info/PKG-INFO
